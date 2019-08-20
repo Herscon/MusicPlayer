@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="pause-16.png">images/media-pause-16.png</file>
+        <file alias="play-16.png">images/media-play-16.png</file>
+        <file alias="background.png">images/background.png</file>
+        <file alias="main.qml">qml/main.qml</file>
+    </qresource>
+</RCC>
